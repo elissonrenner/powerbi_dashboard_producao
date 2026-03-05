@@ -28,7 +28,7 @@ Os dados utilizados neste projeto são **fictícios**, criados exclusivamente pa
 
 ## Visualização do Dashboard
 
-![Dashboard de Produção](images/production_dashboard.png)
+![Dashboard de Produção](images/dashboard.png)
 
 ## Arquivos do Projeto
 
