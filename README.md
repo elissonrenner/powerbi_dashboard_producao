@@ -1,31 +1,41 @@
 # powerbi_dashboard_producao
 Data analysis project: Production dashboard built with Power BI.
 
-# Production Dashboard - Power BI
+# Dashboard de Produção - Power BI
 
-This project presents a Production Dashboard developed in Power BI to analyze manufacturing performance and operational efficiency.
+Este projeto apresenta um dashboard de análise de produção desenvolvido no Power BI com o objetivo de visualizar indicadores operacionais e acompanhar o desempenho produtivo.
 
-## Objectives
-The dashboard was designed to help visualize key production indicators and identify potential opportunities for improvement in operational processes.
+## Objetivo
 
-## Key Metrics
-- Total production volume
-- Production by product category
-- Performance trends over time
-- Operational efficiency indicators
+O dashboard foi criado para facilitar a análise de dados de produção, permitindo identificar padrões, acompanhar volumes produzidos e observar tendências ao longo do tempo.
 
-## Tools Used
+## Principais Indicadores
+
+- Volume total de produção
+- Produção por categoria de produto
+- Tendência de produção ao longo do tempo
+- Indicadores de desempenho operacional
+
+## Ferramentas Utilizadas
+
 - Power BI
-- Excel (data source)
-- Data visualization techniques
+- Microsoft Excel
+- Técnicas de visualização de dados
 
-## Dataset
-The dataset used in this project contains fictional data created for learning and portfolio purposes.
+## Base de Dados
 
-## Project Files
-- Power BI dashboard (.pbix)
-- Dataset (.xlsx)
-- Dashboard screenshots
+Os dados utilizados neste projeto são **fictícios**, criados exclusivamente para fins de estudo e desenvolvimento de portfólio.
 
-## Author
+## Visualização do Dashboard
+
+![Dashboard de Produção](images/production_dashboard.png)
+
+## Arquivos do Projeto
+
+- Dashboard em Power BI (.pbix)
+- Base de dados em Excel (.xlsx)
+- Imagens do dashboard
+
+## Autor
+
 Elisson Renner
